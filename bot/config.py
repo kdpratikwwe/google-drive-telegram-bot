@@ -6,7 +6,7 @@ class config:
     SUDO_USERS = "902706641"# Sepearted by space.
     SUPPORT_CHAT_LINK = "https://telegram.me/kddrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
+    G_DRIVE_CLIENT_ID = "270098354275-8ut32hmrqkcn2hicfh76ebo578f6nfkg.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = ""
 
 
