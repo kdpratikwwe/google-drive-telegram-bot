@@ -1,7 +1,7 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1780586863:AAG7q6y_q2_u7bXRs1oCLaq7Ur_gyG-rpx0"
+    APP_ID = "1470330"
+    API_HASH = "7e2106c646948673f18d2d70d40f3170"
     DATABASE_URL = ""
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
