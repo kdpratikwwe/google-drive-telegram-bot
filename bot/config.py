@@ -2,9 +2,9 @@ class config:
     BOT_TOKEN = "1780586863:AAG7q6y_q2_u7bXRs1oCLaq7Ur_gyG-rpx0"
     APP_ID = "1470330"
     API_HASH = "7e2106c646948673f18d2d70d40f3170"
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    DATABASE_URL = "postgres://uqxqajjctvzdcz:ab048aca36f6b70f02b685f9dbd977e412430c2723ec5daeab662f1c8130d92c@ec2-54-224-120-186.compute-1.amazonaws.com:5432/dfpn717vq857ga"
+    SUDO_USERS = "902706641"# Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://telegram.me/kddrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
