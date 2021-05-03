@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1668533431:AAG6YIvKDhsm-9tGr4mWpzAcwepSQ_hHZOA"
     APP_ID = "1470330"
     API_HASH = "7e2106c646948673f18d2d70d40f3170"
-    DATABASE_URL = "postgres://uqxqajjctvzdcz:ab048aca36f6b70f02b685f9dbd977e412430c2723ec5daeab662f1c8130d92c@ec2-54-224-120-186.compute-1.amazonaws.com:5432/dfpn717vq857ga"
+    DATABASE_URL = "postgres://dwaozundsryhlm:8b9b8dc9050b5d2b25e3b89f1ffa76b05c32d0c3415e1af5d16721ee3f28ae6f@ec2-18-214-195-34.compute-1.amazonaws.com:5432/d9hd0as0ob4j8a"
     SUDO_USERS = "902706641"# Sepearted by space.
     SUPPORT_CHAT_LINK = "https://telegram.me/kddrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
