@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "902706641"# Sepearted by space.
     SUPPORT_CHAT_LINK = "https://telegram.me/kddrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "270098354275-8ut32hmrqkcn2hicfh76ebo578f6nfkg.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "456088729647-jvajdn95qjumbs6k5erjlkgbpen4mq6s.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "Qv21h5mCK2-aBTDKX_0IqP-u"
 
 
 class BotCommands:
